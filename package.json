@@ -1,0 +1,25 @@
+{
+  "name": "hex-gif",
+  "version": "1.0.0",
+  "description": "create a tiny 1x1 pixel GIF from a hexadecimal color",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/christianbundy/hex-gif.git"
+  },
+  "keywords": [
+    "hex",
+    "gif",
+    "pixel",
+    "1x1"
+  ],
+  "author": "Christian Bundy <christianbundy@fraction.io>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/christianbundy/hex-gif/issues"
+  },
+  "homepage": "https://github.com/christianbundy/hex-gif#readme"
+}
