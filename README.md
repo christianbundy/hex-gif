@@ -7,9 +7,9 @@ encodings, but hacky because it operates directly on the raw bytes.
 ## Usage
 
 ```javascript
-const hexGif = require('hex-gif')
+const hexGif = require("hex-gif");
 
-hexGif('#ff00ff') // => Buffer <...>
+hexGif("#ff00ff"); // => Buffer <...>
 ```
 
 This outputs abuffer for a 1x1 pixel magenta GIF.

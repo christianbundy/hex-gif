@@ -4,7 +4,8 @@
   "description": "create a tiny 1x1 pixel GIF from a hexadecimal color",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "fix": "common-good fix",
+    "test": "common-good check && node test"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/christianbundy/hex-gif/issues"
   },
-  "homepage": "https://github.com/christianbundy/hex-gif#readme"
+  "homepage": "https://github.com/christianbundy/hex-gif#readme",
+  "devDependencies": {
+    "@types/node": "^13.1.8",
+    "common-good": "^1.1.13"
+  },
+  "dependencies": {}
 }
