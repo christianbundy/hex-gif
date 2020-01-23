@@ -1,6 +1,6 @@
 {
   "name": "hex-gif",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create a tiny 1x1 pixel GIF from a hexadecimal color",
   "main": "index.js",
   "scripts": {
